@@ -5,17 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af79f46e-89de-46f2-9a0d-e8882f8b5c63" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/selenium-python-workshop-2025.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/features/intu_login.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/features/mercadolibre_search.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/features/steps/login_intu_steps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/features/steps/mercadolibre_search_steps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/intu_login_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/mercadolibre_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/steps/wikipedia_search_steps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/wikipedia_search.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/wikipedia_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
